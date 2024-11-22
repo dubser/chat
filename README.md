@@ -1,5 +1,6 @@
-Suggéré par ChatGpt
-Exemple de fonctionnement 
+# Suggéré par ChatGpt
+
+Exemple de fonctionnement
 
     Lancez le serveur Node.js.
     Ouvrez une page web contenant le code client.
